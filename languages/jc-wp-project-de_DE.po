@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jc Wp Project\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Stefan Jacomeit <stefan@jacomeit.com>\n"
+"Language-Team: Stefan Jacomeit <stefan@jacomeit.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Shows the status as progressbar from the saved projects"
+msgstr "Zeigt den Status der gespeicherten Projekte als Ladebalken an"
+
+msgid "Jc-Wp Project"
+msgstr "Jc-Wp Projekt"
+
+msgid "Actual projects"
+msgstr "Aktuelle Projekte"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Count"
+msgstr "Anzahl"
+
+msgid "All"
+msgstr "Alle"
+

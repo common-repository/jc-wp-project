@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+
+msgid "Shows the status as progressbar from the saved projects"
+msgstr "Zeigt den Status der gespeicherten Projekte als Progressbar an"
+
+msgid "Jc-Wp Project"
+msgstr "Jc-Wp Projekt"
+
+msgid "Actual projects"
+msgstr "Aktuelle Projekte"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Count"
+msgstr "Anzahl"
+
+msgid "All"
+msgstr "Alle"
+
+
